@@ -1,6 +1,6 @@
 ---
 title: "Google Data Analytics Certificate - Coursera Capstone"
-Author: Quentin Ferreira
+Author: Payal Amle
 output:
   pdf_document: default
   html_document: default
