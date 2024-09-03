@@ -1,0 +1,39 @@
+<div id="section00" class="center-screen section animation-duration-500" pAnimateOnScroll enterClass="fadeinright"
+  leaveClass="fadeout">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <img class="rounded-circle profile animation-duration-500" src="../../../assets/images/profile.jpg"
+          pAnimateOnScroll enterClass="zoomin" leaveClass="fadeout" />
+      </div>
+    </div>
+    <div class="row mt-2">
+      <div class="col-12 animation-duration-1000" pAnimateOnScroll enterClass="fadein" leaveClass="fadeout">
+        <h1>{{name}}</h1>
+      </div>
+    </div>
+    <div class="row mt-2">
+      <div class="col-12 animation-duration-1000" pAnimateOnScroll enterClass="fadein" leaveClass="fadeout">
+        <h6>
+          I'm a <span class="headerTitle load">{{ title }}</span>
+        </h6>
+      </div>
+    </div>
+    <div class="row mt-2 animation-duration-1000" pAnimateOnScroll enterClass="fadein" leaveClass="fadeout">
+      <div class="col-12">
+        <a class="link hover" [class.ms-3]="i!=0" target="_blank" [href]="item.link"
+          *ngFor="let item of social;let i = index">
+          <i [class]="item.icon" style="font-size: 1.3rem;"></i>
+        </a>
+      </div>
+    </div>
+    <div class="row mt-3 animation-duration-1000" pAnimateOnScroll enterClass="fadein" leaveClass="fadeout">
+      <div class="col-12">
+        <a class="btn btn-custom" (click)="scroll('section06')">Hire Me</a>
+      </div>
+    </div>
+    <a class="scroll animation-duration-1000" pAnimateOnScroll enterClass="fadein" leaveClass="fadeout"
+      (click)="scroll('section01')"><span></span>Scroll</a>
+  </div>
+  <app-parallax-screen></app-parallax-screen>
+</div>
