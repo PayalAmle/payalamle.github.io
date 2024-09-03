@@ -1,0 +1,160 @@
+[
+    {
+        "start_date": "01-01-2021",
+        "title": "KSMM (Key Senior Management Metric)",
+        "description": [
+            "KSMM, an OBIEE-based Reporting Dashboard, serves as a vital tool for Senior Management Members. It offers comprehensive insights into various aspects including Risk and Revenue, facilitating performance tracking, data analysis, and interactive engagement with critical business data."
+        ],
+        "responsibility": [
+            "<strong>Analytic Solutions Development:</strong> Developed analytic solutions to support specific business needs.",
+            "<strong>Data Loading:</strong> Loaded data into tables, ensuring accuracy and efficiency.",
+            "<strong>Application Logic Implementation:</strong> Converted user stories into application logic, including reports, printed outputs, and system interfaces using OBIEE.",
+            "<strong>Report Visualization:</strong> Created visual reports using TABLEAU by gathering data from databases.",
+            "<strong>Job Support and Monitoring:</strong> Supported, monitored, and reported jobs using the Autosys tool.",
+            "<strong>End-to-End Testing:</strong> Performed comprehensive testing to ensure all functionalities worked as required.",
+            "<strong>SQL Query Optimization:</strong> Tuned SQL queries for optimal performance to ensure efficient data retrieval and processing.",
+            "<strong>In-Application SQL Optimization:</strong> Wrote and optimized SQL statements within applications for better performance.",
+            "<strong>Collaboration:</strong> Worked collaboratively with team members and stakeholders to deliver high-quality solutions.",
+            "<strong>Production Issue Resolution:</strong> Handled production issues, ensuring minimal downtime and maintaining system stability."
+        ],
+        "Link": "Internal use",
+        "tech": [
+            {
+                "title": "Oracle",
+                "icon": "oracle-logo",
+                "fill": "color"
+            },
+            {
+                "title": "SQL",
+                "icon": "sql",
+                "fill": "color"
+            },
+            {
+                "title": "Jenkins",
+                "icon": "jenkins",
+                "fill": "color"
+            },
+            {
+                "title": "UNIX",
+                "icon": "external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo",
+                "fill": "external-tal-revivo-color-tal-revivo"
+            }
+        ]
+    },
+    {
+        "start_date": "02-01-2020",
+        "end_date": "07-01-2020",
+        "title": "Document verification Application for SIM Activation",
+        "responsibility": [
+            "Developed front-end for document verification application for SIM activation using React JS."
+        ],
+        "description": [
+            "The project is a platform where all apps, devices, connection of new and existing is handled. The purchase and the records of the purchase is stored."
+        ],
+        "Link": "Internal use",
+        "tech": [
+            {
+                "title": "NodeJS",
+                "icon": "node-js",
+                "fill": "fluency"
+            },
+            {
+                "title": "React",
+                "icon": "external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo",
+                "fill": "external-tal-revivo-color-tal-revivo"
+            },
+            {
+                "title": "Javascript",
+                "icon": "javascript",
+                "fill": "fluency"
+            }
+        ]
+    },
+    {
+        "duration": "6 months",
+        "title": "Online IQ Test",
+        "description": [
+            "Consists a number of questions and shows results that provide an outline of person’s mental strength and weakness. Using Oracle database and asp.net."
+        ],
+        "Link": "M.Sc. IT Project",
+        "tech": [
+            {
+                "title": "ASP.NET",
+                "icon": "external-Dot-Net-social-media-those-icons-lineal-color-those-icons",
+                "fill": "external-those-icons-lineal-color-those-icons"
+            },
+            {
+                "title": "Javascript",
+                "icon": "javascript",
+                "fill": "fluency"
+            },
+            {
+                "title": "Oracle",
+                "icon": "oracle-logo",
+                "fill": "color"
+            }
+        ]
+    },
+    {
+        "duration": "6 months",
+        "title": "Student and Faculty App",
+        "description": [
+            "It is an application developed for group chats and notifying to teachers about lecture. Using Firebase and Android Studio."
+        ],
+        "Link": "M.Sc. IT Project",
+        "tech": [
+            {
+                "title": "Android",
+                "icon": "android-os",
+                "fill": "color"
+            }
+        ]
+    },
+    {
+        "duration": "6 months",
+        "title": "Yoga Fitness App",
+        "description": [
+            "This app provides the best yoga exercises one can perform. Using Android Studio and SQLite database."
+        ],
+        "Link": "M.Sc. IT Project",
+        "tech": [
+            {
+                "title": "Android",
+                "icon": "android-os",
+                "fill": "color"
+            }
+        ]
+    },
+    {
+        "duration": "6 months",
+        "title": "Aqua Splash Water Park Website",
+        "description": [
+            "Developed a user-friendly interface for viewing Water Park details.",
+            "Implemented functionalities allowing admin access to view and modify customer booking details.",
+            "Included personal login capabilities for administrators to manage the system efficiently."
+        ],
+        "Link": "B.Sc. IT Project",
+        "tech": [
+            {
+                "title": "PHP",
+                "icon": "php-logo",
+                "fill": "officel"
+            },
+            {
+                "title": "Javascript",
+                "icon": "javascript",
+                "fill": "fluency"
+            },
+            {
+                "title": "JQuery",
+                "icon": "jquery",
+                "fill": "ios-filled"
+            },
+            {
+                "title": "MySql",
+                "icon": "mysql-logo",
+                "fill": "color"
+            }
+        ]
+    }
+]

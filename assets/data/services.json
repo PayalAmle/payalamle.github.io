@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Back-End Development",
+        "icon": "backend-development",
+        "fill": "stickers",
+        "description": "Specialize in back-end development, building robust and scalable applications using Node.js, SQL, and PHP. My expertise lies in optimizing data processing, ensuring security, and maintaining system stability for reliable performance."
+    },
+    {
+        "title": "Front-End Development",
+        "icon": "web",
+        "fill": "stickers",
+        "description": "Crafting responsive and intuitive user interfaces using React, JavaScript, and jQuery. My focus is on delivering seamless user experiences with clean, efficient code that brings design concepts to life."
+    },
+    {
+        "title": "Google Data Analytics Professional Certificated",
+        "icon": "development-skill",
+        "fill": "stickers",
+        "description": "Skilled in data analytics and visualization, leveraging tools like Tableau, Oracle, and SQL to transform complex data into actionable insights. My work supports informed decision-making through clear, comprehensive reports and dashboards."
+    }
+]
